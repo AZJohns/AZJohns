@@ -16,7 +16,7 @@
     <a href="https://azjohns.github.io/Portfolio-v1/" target="_blank">
       <img src="https://img.shields.io/badge/VER_MI_PORTAFOLIO_WEB-000?style=for-the-badge&logo=googlechrome&logoColor=white&color=00C853" alt="Portfolio Badge"/>
     </a>
-    <a href="TU_LINK_DE_LINKEDIN_AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/john-sebastian-andrade-zapata/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </p>
@@ -122,7 +122,7 @@
 <div align="center">
   <p>
     <b>Email:</b> andradezapatajohn@gmail.com<br>
-    <b>LinkedIn:</b> TU_LINK_DE_LINKEDIN_AQUI<br>
+    <b>LinkedIn:</b> https://www.linkedin.com/in/john-sebastian-andrade-zapata<br>
     <b>Portfolio:</b> <a href="https://azjohns.github.io/Portfolio-v1/">https://azjohns.github.io/Portfolio-v1/</a>
   </p>
 </div>
