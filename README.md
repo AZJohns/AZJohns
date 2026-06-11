@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hola, soy John Andrade <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hola, soy Jonh Andrade <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
   <h3>
     <a href="https://git.io/typing-svg">
